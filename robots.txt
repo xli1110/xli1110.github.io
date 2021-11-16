@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /Others/
+Allow: /Plant/
+Allow: /Python/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+
+Sitemap: https://xli1110.github.io/sitemap.xml
