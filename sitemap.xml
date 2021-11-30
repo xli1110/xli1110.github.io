@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xli1110.github.io/2021/11/30/BNN/</loc>
+    
+    <lastmod>2021-11-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xli1110.github.io/2021/11/11/XGBoost/</loc>
+    
+    <lastmod>2021-11-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xli1110.github.io/Python/index.html</loc>
+    
+    <lastmod>2021-11-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xli1110.github.io/2021/11/17/LGBM/</loc>
     
     <lastmod>2021-11-17</lastmod>
@@ -10,13 +31,6 @@
   
   <url>
     <loc>https://xli1110.github.io/2021/11/16/geopy/</loc>
-    
-    <lastmod>2021-11-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xli1110.github.io/Python/index.html</loc>
     
     <lastmod>2021-11-17</lastmod>
     
@@ -47,13 +61,6 @@
     <loc>https://xli1110.github.io/2021/08/16/pandas/</loc>
     
     <lastmod>2021-11-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xli1110.github.io/2021/11/11/XGBoost/</loc>
-    
-    <lastmod>2021-11-11</lastmod>
     
   </url>
   
@@ -221,7 +228,7 @@
 
   <url>
     <loc>https://xli1110.github.io/</loc>
-    <lastmod>2021-11-17</lastmod>
+    <lastmod>2021-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -229,28 +236,28 @@
   
   <url>
     <loc>https://xli1110.github.io/tags/Botanical-Garden/</loc>
-    <lastmod>2021-11-17</lastmod>
+    <lastmod>2021-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xli1110.github.io/tags/Plant/</loc>
-    <lastmod>2021-11-17</lastmod>
+    <lastmod>2021-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xli1110.github.io/tags/Piano/</loc>
-    <lastmod>2021-11-17</lastmod>
+    <lastmod>2021-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xli1110.github.io/tags/Python/</loc>
-    <lastmod>2021-11-17</lastmod>
+    <lastmod>2021-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
