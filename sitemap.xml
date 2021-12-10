@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xli1110.github.io/2021/10/14/urllib/</loc>
+    
+    <lastmod>2021-12-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xli1110.github.io/Python/index.html</loc>
+    
+    <lastmod>2021-12-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xli1110.github.io/2021/12/10/BeautifulSoup/</loc>
     
     <lastmod>2021-12-10</lastmod>
@@ -17,13 +31,6 @@
   
   <url>
     <loc>https://xli1110.github.io/2021/09/17/boto3/</loc>
-    
-    <lastmod>2021-12-10</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xli1110.github.io/Python/index.html</loc>
     
     <lastmod>2021-12-10</lastmod>
     
@@ -138,13 +145,6 @@
     <loc>https://xli1110.github.io/2021/08/17/f-Fantasia/</loc>
     
     <lastmod>2021-10-17</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xli1110.github.io/2021/10/14/urllib/</loc>
-    
-    <lastmod>2021-10-14</lastmod>
     
   </url>
   
